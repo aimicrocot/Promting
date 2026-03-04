@@ -285,7 +285,3 @@ Post History тащит и имеет больший вес, чем основн
 
 # Контакты автора
 Я всё ещё не эксперт, по идеям и т.д. мой Телеграм про AI и RP https://t.me/sillytavern1
-<p align="center">
-Мелкопресет: 
-https://github.com/aimicrocot/microcot
-</p>
